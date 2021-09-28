@@ -1,0 +1,4 @@
+﻿  Marchand.cpp
+D:\Users\2032583\source\repos\Examen1EtienneGuimond\Examen1EtienneGuimond\Marchand.cpp(23,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Users\2032583\source\repos\Examen1EtienneGuimond\Examen1EtienneGuimond\Marchand.cpp(47,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Examen1EtienneGuimond.vcxproj -> D:\Users\2032583\source\repos\Examen1EtienneGuimond\Debug\Examen1EtienneGuimond.exe
